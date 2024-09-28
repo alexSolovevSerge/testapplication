@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="button_start_text">Нажими меня</string>
+</resources>
